@@ -8,6 +8,9 @@ We will use the sea ice data from the National Snow & Ice Data Center which prov
 
 In order to check whether there is an anomaly in the evolution of sea ice extent over recent years, we want to build a Linear Regression Model and analyze the fitting.
 
+DataSet on National Snow & Ice Data Center - https://nsidc.org/data/seaice_index/archives.html
+Archived Data residing at an FTP location  - ftp://sidads.colorado.edu/DATASETS/NOAA/G02135/
+
 # Thanks
 
 Comments? Suggestions?
