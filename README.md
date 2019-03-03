@@ -1,3 +1,4 @@
+[![HitCount](http://hits.dwyl.io/abhinav-codealchemist/Modelling-Analyzing-And-Performing-Regression-On-Sea-Ice-Data.svg)](http://hits.dwyl.io/abhinav-codealchemist/Modelling-Analyzing-And-Performing-Regression-On-Sea-Ice-Data)
 # Modelling, Analyzing & Performing Regression on Sea Ice Data
 
 To show the effect of climate change by determining whether the sea ice area (or extent) has decreased over the years and to further, predict the extent for the coming years.
